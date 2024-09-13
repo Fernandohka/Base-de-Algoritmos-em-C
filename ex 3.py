@@ -8,4 +8,4 @@ h5 = float(input("Informe as horas trabalhadas no quinto dia: "))
 
 resp = (h1 + h2 + h3 + h4 + h5) / 5
 
-print(f"A média de horas trabalhadas é de: {resp:.2} horas por dia")
+print(f"A média de horas trabalhadas é de: {resp:.2f} horas por dia")

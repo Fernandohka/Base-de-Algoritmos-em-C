@@ -32,5 +32,5 @@ mediam = totalidadem/(totalsexom + totalsexom18)
 
 print(f"Total do sexo feminio e maior que 21 é de: {totalsexof21}")
 print(f"Total do sexo masculino e maior que 18 é de: {totalsexom18}")
-print(f"Media de idade do sexo feminino é de: {mediaf}")
-print(f"Media de idade do sexo masculino é de: {mediam}")
+print(f"Media de idade do sexo feminino é de: {mediaf:.2f}")
+print(f"Media de idade do sexo masculino é de: {mediam:.2f}")
